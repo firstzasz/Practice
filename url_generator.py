@@ -1,0 +1,1 @@
+print("http://example.com/{name}/desirable/{profession}/profile".format(name=input(), profession=input()))

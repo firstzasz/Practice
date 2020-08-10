@@ -1,0 +1,1 @@
+print(int(input('how many word ?')) * input('what word ?'))
